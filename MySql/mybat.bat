@@ -1,0 +1,1 @@
+mysqldump -u root -p --databases Dunteva > %userprofile%\Desktop\Dunteva\MySql\Dunteva_backup.sql
